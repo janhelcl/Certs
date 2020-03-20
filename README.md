@@ -17,3 +17,7 @@
 [3. Big Data Applications: Machine Learning at Scale](https://www.coursera.org/learn/machine-learning-applications-big-data)
 
 [4. Big Data Applications: Real-Time Streaming](https://www.coursera.org/learn/real-time-streaming-big-data)
+
+# Cloudera Data Science Workbench Training
+
+[Cloudera Data Science Workbench Training](https://www.cloudera.com/about/training/courses/cloudera-data-science-workbench-training.html)
