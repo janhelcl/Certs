@@ -8,6 +8,10 @@
 
 [4. Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)
 
+# Discrete Optimization by The University of Melbourne
+
+[Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
+
 # Big Data for Data Engineers by Yandex
 
 [1. Big Data Essentials: HDFS, MapReduce and Spark RDD](https://www.coursera.org/learn/big-data-essentials)
