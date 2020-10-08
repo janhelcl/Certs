@@ -25,3 +25,15 @@
 # Cloudera Data Science Workbench Training
 
 [Cloudera Data Science Workbench Training](https://www.cloudera.com/about/training/courses/cloudera-data-science-workbench-training.html)
+
+# Deep Learning by deeplearning.ai
+
+[1. Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?)
+
+[2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?)
+
+[3. Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?)
+
+[4. Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?)
+
+[5. Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?)
