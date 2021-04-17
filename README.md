@@ -38,6 +38,6 @@
 
 [5. Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?)
 
-# Digital Signal Processing by École Polytechnique Fédérale de Lausanne
+# Digital Signal Processing by EPFL
 
 [1. Digital Signal Processing 1: Basic Concepts and Algorithms](https://www.coursera.org/learn/dsp1#about)
