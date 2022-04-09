@@ -41,3 +41,9 @@
 # Digital Signal Processing by EPFL
 
 [1. Digital Signal Processing 1: Basic Concepts and Algorithms](https://www.coursera.org/learn/dsp1#about)
+
+# Java as a Second Language  by LearnQuest
+
+[1. Introduction to Java as a Second Language](https://www.coursera.org/learn/intro-java-second-language)
+
+[2. The Java Language](https://www.coursera.org/learn/java-as-a-second-language-the-java-language)
