@@ -47,3 +47,7 @@
 [1. Introduction to Java as a Second Language](https://www.coursera.org/learn/intro-java-second-language)
 
 [2. The Java Language](https://www.coursera.org/learn/java-as-a-second-language-the-java-language)
+
+# MLOps  by Learn in Data
+
+[Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/)
