@@ -48,6 +48,6 @@
 
 [2. The Java Language](https://www.coursera.org/learn/java-as-a-second-language-the-java-language)
 
-# MLOps  by Learn in Data
+# MLOps  by Train in Data
 
 [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/)
