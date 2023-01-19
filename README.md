@@ -51,3 +51,5 @@
 # MLOps  by Train in Data
 
 [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/)
+
+[Testing and Monitoring of Machine Learning Models](https://www.udemy.com/course/draft/2122690/)
