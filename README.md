@@ -53,3 +53,7 @@
 [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 
 [Testing and Monitoring of Machine Learning Models](https://www.udemy.com/course/draft/2122690/)
+
+# GenAI & LLMs
+
+[Introduction to LangChain](https://www.udemy.com/course/introduction-to-langchain/)
