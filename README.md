@@ -56,9 +56,9 @@
 
 # GenAI & LLMs
 
-[Introduction to LangChain](https://www.udemy.com/course/introduction-to-langchain/)
+[Introduction to LangChain by Damien Benveniste](https://www.udemy.com/course/introduction-to-langchain/)
 
-[Advanced: Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/public_profiles/6c7600c0-fccd-470e-a7ec-1092d0a700b7)
+[Advanced: Generative AI for Developers Learning Path by Google Cloud](https://www.cloudskillsboost.google/public_profiles/6c7600c0-fccd-470e-a7ec-1092d0a700b7)
 
 # Kubernetes
 
