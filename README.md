@@ -63,3 +63,10 @@
 # Kubernetes
 
 [Kubernetes by Data Script](https://www.datascript.cz/kurzy/open-source/kubernetes/)
+
+# Google Cloud Platform
+
+[Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader)
+
+[Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
+
